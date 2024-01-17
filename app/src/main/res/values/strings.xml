@@ -1,0 +1,7 @@
+<resources>
+    <string name="user">USUARIO</string>
+    <string name="contra">CONTRASEÑA</string>
+    <string name="inicio_login">INGRESAR</string>
+    <string name="click_to_register">Click_to_register</string>
+    <string name="app_name">dfvg</string>
+</resources>
